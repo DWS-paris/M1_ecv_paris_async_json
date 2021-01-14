@@ -1,0 +1,9 @@
+header, main, footer{
+    max-width: 90rem;
+    margin: auto;
+    padding: 4rem;
+}
+
+.hidden{
+    display: none;
+}
